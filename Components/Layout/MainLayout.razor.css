@@ -1,0 +1,21 @@
+#divmain{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 10px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    min-height: 500px;
+}
+
+#divmain {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
+
+.Goback{
+    color: blueviolet;
+    text-decoration: wavy;
+}

@@ -1,0 +1,23 @@
+﻿@inherits LayoutComponentBase
+@inject NavigationManager NavMan
+
+<div class="container">
+    <header class="border-bottom">
+        <div>
+        <a href="/" class="Goback">
+            <h1>Menú</h1>
+        </a>
+        </div>
+    </header>
+    <main>
+        <div id="divmain">
+            @Body
+        </div>
+    </main>
+    
+    <footer class="border-top footer text-muted text-footer">
+        <div>
+            <b>&copy; 2024 - Brander Báez</b>
+        </div>
+    </footer>
+</div>
