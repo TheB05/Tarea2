@@ -27,3 +27,4 @@ C:\Web\Tarea_Web2\Tarea2\obj\Debug\net8.0\Tarea2.pdb
 C:\Web\Tarea_Web2\Tarea2\obj\Debug\net8.0\Tarea2.genruntimeconfig.cache
 C:\Web\Tarea_Web2\Tarea2\obj\Debug\net8.0\ref\Tarea2.dll
 C:\Web\Tarea_Web2\Tarea2\obj\Debug\net8.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
+C:\Web\Tarea_Web2\Tarea2\obj\Debug\net8.0\Tarea2.sourcelink.json
